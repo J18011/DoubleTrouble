@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Double Trouble</string>
+    <string name="app_begin">ゲームを始める</string>
+    <string name="calltitle">タイトルへ戻る</string>
+    <string name="back">戻る</string>
+    <string name="start">スタート!</string>
+</resources>
