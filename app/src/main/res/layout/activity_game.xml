@@ -9,10 +9,10 @@
 
     <LinearLayout
             android:id="@+id/linearLayout3"
-            android:layout_width="395dp"
-            android:layout_height="107dp"
+            android:layout_width="393dp"
+            android:layout_height="66dp"
             android:orientation="horizontal"
-            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteX="10dp"
             tools:layout_editor_absoluteY="2dp">
 
         <Button
