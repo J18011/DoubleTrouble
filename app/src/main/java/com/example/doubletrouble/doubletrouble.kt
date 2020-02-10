@@ -29,6 +29,8 @@ class doubletrouble:AppCompatActivity(){
 
     }
 
+
+
     fun GamePlay(name:String){
         val intent1 = Intent(this,Game::class.java)
         intent1.putExtra("name1",name)
